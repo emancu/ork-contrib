@@ -14,7 +14,7 @@ All the Ork plugins together
 
 `ork-contrib` will add those plugins which are frequently used and do not change persistence.
 
-When yoy add `ork-contrib` to your dependencies file, and your code the following gems will be added:
+When you add `ork-contrib` to your dependencies file, and your code the following gems will be added:
 
 - [ork-hooks](https://github.com/emancu/ork-hooks)
 - [ork-timestamps](https://github.com/emancu/ork-timestamps)
